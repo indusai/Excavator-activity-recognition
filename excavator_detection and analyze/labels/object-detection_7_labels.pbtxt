@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'EXC'
+}
+item {
+  id: 2
+  name: 'Truck'
+}
+item {
+  id: 3
+  name: 'PERSON'
+}
+item {
+  id: 4
+  name: 'DRILLRIG'
+}
+item {
+  id: 5
+  name: 'EQUIPMENT'
+}
+item {
+  id: 6
+  name: 'VEHICLE'
+}
+item {
+  id: 7
+  name: 'BUS'
+}
+
