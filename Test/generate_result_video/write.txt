@@ -1,0 +1,9 @@
+3 Digging 
+7 Swing 
+15 Loading 
+23 Swing 
+29 Digging 
+38 Swing 
+46 Loading 
+49 Swing 
+52 Digging 
